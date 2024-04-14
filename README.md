@@ -51,32 +51,41 @@ python ladder.py
 
 ## Calibration
 Here's an example image of feature matching for Artroom Dataset:
+
 ![Feature Matching](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/chess_matched_image.png)
 
 ## Rectification
 This image shows the results of image rectification:
+
 ![Rectified Image](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/rectified_epi_polar_lines_.png)
 
 ## Correspondence
 Here are the epipolar lines demonstrating correspondence:
+
 ![Epipolar Lines](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/epi_polar_lines_.png)
 
 ## Depth Calculation
 The following images illustrate the depth calculation results:
+
 Depth Image - Gray:
+
 ![Depth Image Gray](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_gray.png)
 
 
 Depth Image - Heat Map:
+
 ![Depth Image Heat](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/depth_image_heat.png)
 
 ## Disparity
 The following images illustrate the Disparity results:
+
 Disparity Image - Gray:
+
 ![Disparity Image Gray](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_gray.png)
 
 
 Disparity Image - Heat Map:
+
 ![Disparity Image Heat](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_heat.png)
 
 
