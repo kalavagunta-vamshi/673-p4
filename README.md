@@ -30,22 +30,6 @@ Correspondence involves searching along epipolar lines in the second image for m
 
 Depth calculation is the final step where 3D information is extracted using camera parameters and disparity data. The depth for each set of images is fine-tuned for accuracy.
 
-
-
-![Chess Dataset](images/chess_dataset.png)
-
-![Ladder Dataset](images/ladder_dataset.png)
-
-![Artroom Dataset](images/artroom_dataset.png)
-
-![Chess Matched Image](images/chess_matched_image.png)
-
-![Ladder Matched Image](images/ladder_matched_image.png)
-
-![Artroom Matched Image](images/artroom_matched_image.png)
-
-For more results, visit the `images/` directory.
-
 ## Dependencies
 
 - Python 3.x
@@ -67,14 +51,6 @@ python ladder.py
 
 For in-depth understanding and methodology refer to:
 - [Fundamentals of Matrix Computations](https://cmsc733.github.io/2022/proj/p3/fundmatrix)
-
-
-I'm unable to directly manage or modify files within your GitHub repository or attach images to the README file for you. However, I can guide you on how to link the images in your README markdown so that they will display properly when you upload the images to your GitHub repository.
-
-Here's how you can link images in your README file:
-
-1. Upload your images to your GitHub repository, ideally in an `images/` directory.
-2. Reference these images in your README.md using relative links.
 
 ## Results
 
