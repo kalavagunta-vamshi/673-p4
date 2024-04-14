@@ -12,7 +12,7 @@ This project implements stereo vision to achieve 3D reconstruction from two diff
 - [Results](#results)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
-- [References](#references)
+
 
 ## Calibration
 
@@ -46,11 +46,6 @@ python artroom.py
 python chess.py
 python ladder.py
 ```
-
-## References
-
-For in-depth understanding and methodology refer to:
-- [Fundamentals of Matrix Computations](https://cmsc733.github.io/2022/proj/p3/fundmatrix)
 
 ## Results
 
