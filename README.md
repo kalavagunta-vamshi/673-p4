@@ -65,6 +65,8 @@ Here are the epipolar lines demonstrating correspondence:
 The following images illustrate the depth calculation results:
 Depth Image - Gray:
 ![Depth Image Gray](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_gray.png)
+
+
 Depth Image - Heat Map:
 ![Depth Image Heat](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/depth_image_heat.png)
 
@@ -72,6 +74,8 @@ Depth Image - Heat Map:
 The following images illustrate the Disparity results:
 Disparity Image - Gray:
 ![Disparity Image Gray](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_gray.png)
+
+
 Disparity Image - Heat Map:
 ![Disparity Image Heat](https://github.com/kalavagunta-vamshi/673-p4/blob/main/results/artroom/disparity_image_heat.png)
 
